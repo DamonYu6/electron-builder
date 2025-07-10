@@ -1,5 +1,15 @@
 # app-builder-lib
 
+## 26.0.19
+
+### Patch Changes
+
+- [#9197](https://github.com/electron-userland/electron-builder/pull/9197) [`6cc5d2ee`](https://github.com/electron-userland/electron-builder/commit/6cc5d2ee45250aae4a05872ae5b800a9e5cca939) Thanks [@beyondkmp](https://github.com/beyondkmp)! - fix: change installOptions to use npm in yarn PM
+
+- Updated dependencies []:
+  - dmg-builder@26.0.19
+  - electron-builder-squirrel-windows@26.0.19
+
 ## 26.0.18
 
 ### Patch Changes
